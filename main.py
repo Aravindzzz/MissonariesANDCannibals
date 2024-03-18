@@ -37,6 +37,7 @@ while True:
         boat_side = "Right"
     if(missionaries_on_right<cannibals_on_right and missionaries_on_right>0) or (missionaries_on_left<cannibals_on_left and missionaries_on_left>0):
         print("You Loose")
+        break
 
     if(missionaries_on_left == 3 and cannibals_on_left ==3):
         print("Winneu")
