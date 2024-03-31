@@ -1,1 +1,1 @@
-he Missionary and Cannibals Problem involves transporting three missionaries and three cannibals across a river using a boat that can carry a maximum of two individuals at a time, while ensuring that the cannibals never outnumber the missionaries on either side of the river. 
+Missionary and Cannibals Problem involves transporting three missionaries and three cannibals across a river using a boat that can carry a maximum of two individuals at a time, while ensuring that the cannibals never outnumber the missionaries on either side of the river. 
